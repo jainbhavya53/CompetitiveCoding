@@ -1,4 +1,4 @@
-package com.guavus.jobs2.bhavya.leetcode.tree;
+package com.bhavya.leetcode.tree;
 
 public class TreeNode {
     public int val;

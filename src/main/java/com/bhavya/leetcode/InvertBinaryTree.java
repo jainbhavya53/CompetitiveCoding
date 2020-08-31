@@ -1,10 +1,10 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
 /**
  * @author bhavya.jain
  */
 
-import com.guavus.jobs2.bhavya.leetcode.tree.TreeNode;
+import com.bhavya.leetcode.tree.TreeNode;
 
 /**
  * Definition for a binary tree node.

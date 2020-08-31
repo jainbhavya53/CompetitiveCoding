@@ -1,4 +1,4 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

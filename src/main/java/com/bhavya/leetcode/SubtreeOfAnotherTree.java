@@ -1,6 +1,6 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
-import com.guavus.jobs2.bhavya.leetcode.tree.TreeNode;
+import com.bhavya.leetcode.tree.TreeNode;
 
 // Runtime - 5 ms faster than 97.34 % solutions. I think we can further optimize it by calculating height of the tree but haven't tried it yet.
 public class SubtreeOfAnotherTree {

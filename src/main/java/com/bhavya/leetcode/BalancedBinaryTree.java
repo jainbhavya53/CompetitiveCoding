@@ -1,6 +1,6 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
-import com.guavus.jobs2.bhavya.leetcode.tree.TreeNode;
+import com.bhavya.leetcode.tree.TreeNode;
 
 // Approach 2 is much faster than 1, as it eliminates the overhead of creating Pair object again and again.
 public class BalancedBinaryTree {

@@ -1,4 +1,4 @@
-package com.guavus.jobs2.bhavya.hackerrank;
+package com.bhavya.hackerrank;
 
 /**
  * @author bhavya.jain

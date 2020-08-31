@@ -1,6 +1,6 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
-import com.guavus.jobs2.bhavya.leetcode.tree.TreeNode;
+import com.bhavya.leetcode.tree.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

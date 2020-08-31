@@ -1,4 +1,4 @@
-package com.guavus.jobs2.bhavya.codejam;
+package com.bhavya.codejam;
 
 /**
  * @author bhavya.jain

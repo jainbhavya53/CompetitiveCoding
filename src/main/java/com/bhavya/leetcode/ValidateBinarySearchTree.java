@@ -1,6 +1,6 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
-import com.guavus.jobs2.bhavya.leetcode.tree.TreeNode;
+import com.bhavya.leetcode.tree.TreeNode;
 
 public class ValidateBinarySearchTree {
     public boolean isValidBST(TreeNode root) {

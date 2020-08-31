@@ -1,4 +1,4 @@
-package com.guavus.jobs2.bhavya.leetcode.design.lru.cache;
+package com.bhavya.leetcode.design.lru.cache;
 
 import java.util.HashMap;
 import java.util.Map;

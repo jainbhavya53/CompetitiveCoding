@@ -1,4 +1,4 @@
-package com.guavus.jobs2.bhavya.leetcode;
+package com.bhavya.leetcode;
 
 /**
  * @author bhavya.jain
