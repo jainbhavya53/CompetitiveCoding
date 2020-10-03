@@ -1,9 +1,6 @@
-package com.bhavya.leetcode;
-
 /**
  * @author bhavya.jain
  */
-
 public class NumberOfIslands {
     public int numIslands(char[][] grid) {
         if (grid.length == 0) {
@@ -41,7 +38,7 @@ public class NumberOfIslands {
         performDfs(grid, visited, x, y + 1);
     }
 
-    // Returns (x,y) coordinates of next unvisited land tile
+    // Returns (x,y) coordinates of next unvisited land tile  
     public int[] getNextUnvisitedLand(char[][] grid, boolean[][] visited, int x, int y) {
         for (int c = y; c < grid[x].length; c++) {
             if (grid[x][c] == '1' && !visited[x][c]) {
@@ -58,3 +55,4 @@ public class NumberOfIslands {
         return new int[]{-1, -1};
     }
 }
+
